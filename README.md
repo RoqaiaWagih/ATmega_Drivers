@@ -13,5 +13,5 @@ I used Proteus 8 Professional and Eta32 ATMEL AVR Development Kit in order to si
 ## Details & Program Flow Chart
 You can find system details and program flow chart in the project documentation 
 ## References
-Eta32 ATMEL AVR Development Kit datasheet
-ATmega32A datasheet
+- Eta32 ATMEL AVR Development Kit datasheet
+- ATmega32A datasheet
