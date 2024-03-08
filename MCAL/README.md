@@ -1,4 +1,4 @@
-# DIO (Digital Input/Output) Library Documentation
+# DIO (Digital Input/Output) Driver Documentation
 The DriverVoid module provides a set of functions for configuring and manipulating digital Input/Output (DIO) pins and ports on an AVR microcontroller. It includes functions to set pin direction, pin value, get pin value, toggle pin value, set port direction, set port value, get port value, toggle port value, and activate pull-up resistance on a port.
 
 ### `DIO_voidSetPinDirection`
