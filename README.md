@@ -9,11 +9,11 @@ I used Proteus 8 Professional and Eta32 ATMEL AVR Development Kit in order to si
 - This repository contains drivers for the AVR ATmega32 microcontroller. The drivers are divided into three directories:
   
 - MCAL: (Microcontroller Abstraction Layer) It abstracts away the low-level hardware details of the MCU, providing a higher-level interface for working with hardware peripherals. The drivers included in this directory are:
-- [DIO DRIVER](https://github.com/RoqaiaWagih/ATmega_Drivers/tree/DRIVERS/MCAL)
+ * [DIO DRIVER](https://github.com/RoqaiaWagih/ATmega_Drivers/tree/DRIVERS/MCAL)
   
 - HAL: (Hardware Abstraction Layer). It provides an even higher-level interface for working with commonly used hardware peripherals. The drivers included in this directory are:
-- [LCD DRIVER](https://github.com/RoqaiaWagih/ATmega_Drivers/tree/DRIVERS/HAL/LCD)
-- [SEVEN SEGMENT DRIVER](https://github.com/RoqaiaWagih/ATmega_Drivers/tree/DRIVERS/HAL/SSD)
+ * [LCD DRIVER](https://github.com/RoqaiaWagih/ATmega_Drivers/tree/DRIVERS/HAL/LCD)
+ * [SEVEN SEGMENT DRIVER](https://github.com/RoqaiaWagih/ATmega_Drivers/tree/DRIVERS/HAL/SSD)
   
 - Utils: This directory contains commonly used macros and standard types used by the drivers.
 ## Details & Program Flow Chart
